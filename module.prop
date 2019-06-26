@@ -1,6 +1,6 @@
 id=kfmark
 name=KFMark Enabler
-version=v1.0.2
-versionCode=3
+version=v1.0.3
+versionCode=4
 author=MlgmXyysd
 description=A module can enable KFMark when device start.
